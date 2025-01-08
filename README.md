@@ -20,7 +20,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Analog-Clock.git
+   git clone https://github.com/TranKienCuong2003/Analog-Clock.git
    ```
 2. Navigate to the project directory:
    ```bash
